@@ -30,6 +30,10 @@ Product-level information
 6.Dashboard Development
 7.Insight Generation
 
+## Dashboard Preview
+<img width="977" height="549" alt="Screenshot 2026-09-01 143647" src="https://github.com/user-attachments/assets/35d82bd0-7e20-41c9-b928-eb682c6be283" />
+
+
 ## KPIs
 KPI	Value
 Total Sales	36M
